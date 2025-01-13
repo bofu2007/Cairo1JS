@@ -5,7 +5,7 @@ import styles from './page.module.css'
 import { Center } from '@chakra-ui/react';
 import { ChakraProvider } from '@chakra-ui/react'
 
-import starknetjsImg from "../../public/Images/StarkNet-JS_logo.png";
+import starknetjsImg from "../../public/Images/bofu.png";
 import { DisplayConnected } from './components/client/DisplayConnected';
 import LowerBanner from './components/client/LowerBanner';
 
